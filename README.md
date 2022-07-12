@@ -1,7 +1,7 @@
 # Ben_Portfolio
 Compilation of projects that I have created 
 
-# H1 Project 1: Python Email Extractor: Project Overview
+# Project 1: Python Email Extractor: Project Overview
 
 •	Created a tool that extracts all sender email addresses from a txt file and counts the number of addresses that are extracted. 
 •	Prompts for a file name, opens the file, reads through the file 
