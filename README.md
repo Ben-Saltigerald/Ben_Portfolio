@@ -7,8 +7,17 @@ Compilation of projects that I have created
 - Prompts for a file name, opens the file, reads through the file 
 - Loops through the file and identifies and parses all sender addresses and ignores all receiver addresses
 
-# [Project 2: Python Number Properties: Project Overview](https://github.com/Ben-Saltigerald/NumberProperties.git)
-For this assignment I have written code in Python to identify different types of number properties. The user simply enters a number between 1 and 10,000 and what is returned are the specific number properties that the number belongs to.
+# [Project 2: Python Shopping List: Project Overview](https://github.com/Ben-Saltigerald/NumberProperties.git)
+I have created a grocery shopping list to make planning my grocery shopping a little more conveinent. 
+This list includes the following: 
+
+- A display of common items that I include in my grocery shopping are displayed along with a number next to each item (1-18). Items can be selected form this list by inputting their corresponding item number.
+- Items may also be added to the list if there are any additional items needed that are not included in the list of common items. 
+- Once the list has been selected, the user is prompted to select the quantity for each item. 
+- The final list of items is displayed along with the quantity of each item. 
+
+# [Project 3: Python Number Properties: Project Overview](https://github.com/Ben-Saltigerald/Shopping-List.git)
+For this project I have written code in Python to identify different types of number properties. The user simply enters a number between 1 and 10,000 and what is returned are the specific number properties that the number belongs to.
 
 The following number properties are identified:
 
