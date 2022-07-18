@@ -16,7 +16,7 @@ This list includes the following:
 - Once the list has been selected, the user is prompted to select the quantity for each item. 
 - The final list of items is displayed along with the quantity of each item. 
 
-# [Project 3: Python Number Properties: Project Overview](https://github.com/Ben-Saltigerald/Shopping-List.git)
+# [Project 3: Python Number Properties: Project Overview](https://github.com/Ben-Saltigerald/NumberProperties.git)
 For this project I have written code in Python to identify different types of number properties. The user simply enters a number between 1 and 10,000 and what is returned are the specific number properties that the number belongs to.
 
 The following number properties are identified:
