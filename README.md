@@ -7,7 +7,7 @@ Compilation of projects that I have created
 - Prompts for a file name, opens the file, reads through the file 
 - Loops through the file and identifies and parses all sender addresses and ignores all receiver addresses
 
-# [Project 2: Python Shopping List: Project Overview](https://github.com/Ben-Saltigerald/NumberProperties.git)
+# [Project 2: Python Shopping List: Project Overview](https://github.com/Ben-Saltigerald/Shopping-List.git)
 I have created a grocery shopping list to make planning my grocery shopping a little more conveinent. 
 This list includes the following: 
 
