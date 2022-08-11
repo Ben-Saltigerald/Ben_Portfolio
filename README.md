@@ -1,13 +1,23 @@
 # Ben_Portfolio
 Compilation of projects that I have created 
 
-# [Project 1: Python Email Extractor: Project Overview](https://github.com/Ben-Saltigerald/PythonEmailExtractor)
+# [Project 1: UFO Sightings — Data Query: Project Overview](https://github.com/Ben-Saltigerald/PythonEmailExtractor)
+Queried data from a csv file that includes records of UFO sightings across the world. I decided to filter the data to obtain information about sightings in every city that I have ever lived in. 
+
+- Imported the file and read it into a dictionary
+- Filtered the data to look for sightings that inlcuded bright objects.
+- Filtered the data by every city I have lived in obtained the average duration that each of these sightings lasted in each city. 
+
+![](https://github.com/Ben-Saltigerald/Ben_Portfolio/blob/main/images/ufo_city_duration.png)
+
+
+# [Project 2: Email Extractor: Project Overview](https://github.com/Ben-Saltigerald/PythonEmailExtractor)
 
 - Created a tool that extracts all sender email addresses from a txt file and counts the number of addresses that are extracted 
 - Prompts for a file name, opens the file, reads through the file 
 - Loops through the file and identifies and parses all sender addresses and ignores all receiver addresses
 
-# [Project 2: Python Shopping List: Project Overview](https://github.com/Ben-Saltigerald/Shopping-List.git)
+# [Project 3: Shopping List: Project Overview](https://github.com/Ben-Saltigerald/Shopping-List.git)
 I have created a grocery shopping list to make planning my grocery shopping a little more conveinent. 
 This list includes the following: 
 
@@ -16,7 +26,7 @@ This list includes the following:
 - Once the list has been selected, the user is prompted to select the quantity for each item. 
 - The final list of items is displayed along with the quantity of each item. 
 
-# [Project 3: Python Number Properties: Project Overview](https://github.com/Ben-Saltigerald/NumberProperties.git)
+# [Project 4: Number Properties: Project Overview](https://github.com/Ben-Saltigerald/NumberProperties.git)
 For this project I have written code in Python to identify different types of number properties. The user simply enters a number between 1 and 10,000 and what is returned are the specific number properties that the number belongs to.
 
 The following number properties are identified:
