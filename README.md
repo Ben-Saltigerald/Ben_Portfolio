@@ -9,7 +9,7 @@ Queried data from a csv file that includes records of UFO sightings across the w
 - Filtered the data by every city I have lived in obtained the average duration that each of these sightings lasted in each city. 
 
 
-![](https://github.com/Ben-Saltigerald/Ben_Portfolio/blob/main/images/ufo_city_duration.png)
+![](/images/ufo_city_duration.png)
 
 
 
