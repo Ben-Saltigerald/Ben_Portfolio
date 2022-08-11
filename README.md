@@ -1,7 +1,7 @@
 # Ben_Portfolio
 Compilation of projects that I have created 
 
-# [Project 1: UFO Sightings — Data Query: Project Overview](https://github.com/Ben-Saltigerald/PythonEmailExtractor)
+# [Project 1: UFO Sightings — Data Query: Project Overview](https://github.com/Ben-Saltigerald/UFO-Data-Query.git)
 Queried data from a csv file that includes records of UFO sightings across the world. I decided to filter the data to obtain information about sightings in every city that I have ever lived in. 
 
 - Imported the file and read it into a dictionary
